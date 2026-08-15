@@ -4,6 +4,8 @@ A nostalgic Windows XP/MSN Messenger-inspired userstyle for the Microsoft Teams 
 
 The style changes only what **you** see in your browser. It does not modify Teams, messages, accounts, or what other participants see.
 
+[☕ Support development on Buy Me a Coffee](https://buymeacoffee.com/paddymac)
+
 ## Before and after
 
 ### Standard Teams
@@ -109,7 +111,17 @@ Before adding screenshots or Developer Tools exports, check them for names, emai
 
 This is an unofficial fan-made userstyle and is not affiliated with, endorsed by, or supported by Microsoft. Microsoft Teams, Windows, Windows XP, MSN Messenger, their names, trademarks and associated artwork belong to their respective owners.
 
-The stylesheet contains embedded derivatives of third-party interface artwork. Review the applicable redistribution and trademark terms before publishing, mirroring or packaging the project.
+The embedded icon derivatives come from [marchmountain's Windows XP High Resolution Icon Pack](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack), which its creator released under [CC0 1.0 Universal](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack/blob/main/LICENSE). See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for attribution and rights information.
+
+## Licence
+
+Original CSS and project documentation are available under the [MIT License](LICENSE). The MIT License does not grant rights to Microsoft names, trademarks or product identities. Third-party artwork is covered by its respective terms as described in [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
+
+## Support development
+
+If you enjoy the theme, you can [buy me a coffee](https://buymeacoffee.com/paddymac).
+
+Contributions support ongoing CSS development and maintenance. They do not purchase or grant rights to Microsoft trademarks, icons, artwork or other third-party materials.
 
 ## Contributing
 
@@ -119,4 +131,3 @@ Selector fixes and visual improvements are welcome. When reporting a problem, in
 - Teams web or PWA
 - A cropped screenshot of the affected area
 - The element's `data-tid`, `data-testid`, role or ARIA label where possible
-
