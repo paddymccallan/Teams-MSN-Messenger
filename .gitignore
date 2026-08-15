@@ -1,0 +1,22 @@
+# Local icon sources and generated working assets
+/assets/
+/Windows XP High Resolution Icon Pack/
+/__MACOSX/
+
+# Copied Teams DOM may contain private tenant/account information
+/exsiting_snapshot.html
+/existing_snapshot.html
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
