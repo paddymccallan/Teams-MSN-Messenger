@@ -1,20 +1,26 @@
 # Teams → MSN Messenger
 
-A nostalgic Windows XP/MSN Messenger-inspired userstyle for the Microsoft Teams web app and PWA. It restyles Teams locally with glossy conversation bubbles, classic blue chrome, Windows-era icons, presence lamps, a redesigned composer, and a themed loading screen.
+A nostalgic Windows XP and Windows Live Messenger-inspired userstyle for the Microsoft Teams web app and PWA. It restyles Teams locally with glossy conversation bubbles, classic blue chrome, Windows-era icons, presence lamps, a redesigned composer, and a themed loading screen.
 
 The style changes only what **you** see in your browser. It does not modify Teams, messages, accounts, or what other participants see.
 
 [☕ Support development on Buy Me a Coffee](https://buymeacoffee.com/paddymac)
 
-## Before and after
+## Preview
+
+### Teams with the MSN-inspired skin
+
+![Microsoft Teams with the MSN-inspired userstyle applied](screenshots/css_applied.png)
+
+### Animated before and after
+
+[![Animated comparison of standard Teams and the MSN-inspired skin](screenshots/before_after.gif)](screenshots/before_after_vid.webm)
+
+▶ [Watch the higher-quality WebM comparison](screenshots/before_after_vid.webm)
 
 ### Standard Teams
 
 ![Microsoft Teams before applying the userstyle](screenshots/standard.png)
-
-### With the MSN/Windows XP userstyle
-
-![Microsoft Teams after applying the MSN-inspired userstyle](screenshots/css_applied.png)
 
 ### Themed loading screen
 
@@ -22,7 +28,7 @@ The style changes only what **you** see in your browser. It does not modify Team
 
 ## Highlights
 
-- Windows XP/MSN-inspired blue window chrome and navigation
+- Windows XP/Windows Live Messenger-inspired blue window chrome and navigation
 - Glossy, colour-coded incoming and outgoing conversation bubbles
 - Classic icon replacements for navigation, calls, participants and message actions
 - Coloured presence lamps for available, busy, away and offline states
@@ -99,7 +105,7 @@ Disable other userstyles, dark-mode extensions or page recolouring tools for Tea
 ## Project files
 
 - [`style.css`](style.css) — the complete Stylus stylesheet
-- [`screenshots/`](screenshots/) — before, after and loading-screen examples
+- [`screenshots/`](screenshots/) — screenshots plus animated and video comparisons
 
 The original icon-pack folders and generated working assets are intentionally excluded from Git. Required runtime images are embedded in `style.css`, so the ignored folders are not needed to use the theme.
 
